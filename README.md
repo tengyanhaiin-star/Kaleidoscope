@@ -43,3 +43,7 @@ A single-file, browser-based kaleidoscope built with HTML5 Canvas. A field of co
 ## Browser support
 
 Works in any modern browser with Canvas 2D and Web Audio API support (Chrome, Firefox, Safari, Edge).
+
+## License
+ 
+MIT — see [LICENSE](LICENSE) for details.
