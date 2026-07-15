@@ -17,7 +17,7 @@ A single-file, browser-based kaleidoscope built with HTML5 Canvas. A field of co
 
 ## Usage
 
-1. Open `kaleidoscope_2d_music.html` in a browser — no build step or server required.
+1. Open [Kaleidoscope with Music](https://tengyanhaiin-star.github.io/Kaleidoscope/) in a browser — no build step or server required.
 2. Use the controls above the canvas:
    - **🔀 Reset** — generate a new pattern.
    - **▶ Start Motion** — animate the particles.
